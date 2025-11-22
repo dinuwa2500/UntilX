@@ -183,6 +183,21 @@ class _CountdownScreenState extends State<CountdownScreen> {
 
         const SizedBox(height: 32),
 
+        // "X Months" subtitle
+        if (_countdownData.days >= 30)
+          Padding(
+            padding: const EdgeInsets.only(bottom: 8),
+            child: Text(
+              '${(_countdownData.days / 30).floor()} ${(_countdownData.days / 30).floor() == 1 ? "Month" : "Months"}',
+              style: TextStyle(
+                fontSize: isSmallScreen ? 18 : 20,
+                fontWeight: FontWeight.w500,
+                color: AppColors.textSecondary,
+              ),
+              textAlign: TextAlign.center,
+            ),
+          ),
+        
         // "X Weeks" subtitle
         if (_countdownData.weeks > 0)
           Padding(
