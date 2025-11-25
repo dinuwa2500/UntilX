@@ -5,11 +5,11 @@ A clean and responsive countdown timer application built with Flutter that helps
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.35_21b674f4_n5bhgi.jpg" alt="Home Screen" width="200" style="margin: 10px;">
-  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.36_a92b1854_koddlj.jpg" alt="Date Selection" width="200" style="margin: 10px;">
-  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.35_31503d7b_fvaugf.jpg" alt="Countdown Display" width="200" style="margin: 10px;">
-  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.34_d3845569_ucdhxc.jpg" alt="Digital Timer" width="200" style="margin: 10px;">
-  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.34_07252c04_m4paew.jpg" alt="Completed State" width="200" style="margin: 10px;">
+  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.35_21b674f4_n5bhgi.jpg" alt="Home Screen" width="150" style="margin: 10px;">
+  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.36_a92b1854_koddlj.jpg" alt="Date Selection" width="150" style="margin: 10px;">
+  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.35_31503d7b_fvaugf.jpg" alt="Countdown Display" width="150" style="margin: 10px;">
+  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.34_d3845569_ucdhxc.jpg" alt="Digital Timer" width="150" style="margin: 10px;">
+  <img src="https://res.cloudinary.com/dinuwapvt/image/upload/v1763316799/WhatsApp_Image_2025-11-16_at_23.35.34_07252c04_m4paew.jpg" alt="Completed State" width="150" style="margin: 10px;">
 </div>
 
 ## ✨ Features
@@ -173,3 +173,4 @@ If you have any questions or feedback, feel free to:
 ---
 
 **Built with ❤️ using Flutter**
+
